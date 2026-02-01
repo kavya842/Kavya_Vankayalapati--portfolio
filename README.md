@@ -1,3 +1,22 @@
-To build a career as an Automation Engineer by leveraging Python scripting and n8n workflow automation to design, optimize, and manage automated solutions that reduce manual effort and improve system efficiency. I aim to apply my skills in API integrations, task automation, and data workflows to solve real-world problems, while continuously learning advanced automation tools and scalable backend systems.
-🔹 Tech Focus: Python Automation, n8n, REST APIs  
-🔹 Interests: Workflow orchestration, backend automation, system optimization
+I am an aspiring Automation Engineer with a strong focus on Python scripting and workflow automation using n8n. I enjoy building scalable automation solutions that reduce manual effort, streamline processes, and improve system efficiency.
+
+My interests lie in designing intelligent workflows, integrating APIs, and developing backend automation systems that solve real-world problems. I am continuously learning and exploring modern automation tools, backend technologies, and scalable system design.
+
+🔧 Tech Focus
+Python Automation
+n8n Workflow Automation
+REST API Integrations
+
+Backend Automation
+
+Task & Process Automation
+
+🚀 Interests
+
+Workflow Orchestration
+
+Backend Systems & Automation
+
+System Optimization
+
+API-Driven Solutions

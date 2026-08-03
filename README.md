@@ -26,8 +26,13 @@ I am passionate about designing intelligent workflows, integrating APIs, and dev
 - SQL
 - Git & GitHub
 - n8n
-- MongoDB
-- Node.js
+- Embeddings
+- Vector DB
+- Chunking
+- MCP
+- RAG
+- Parameters
+- Gen AI Concepts , Transformers
 
 ## Projects
 - **AI Email Negotiation System**  
